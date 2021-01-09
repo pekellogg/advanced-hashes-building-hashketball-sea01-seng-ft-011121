@@ -4,30 +4,30 @@ def game_hash
       {:team_name => "Brooklyn Nets",
         :colors => ["Black", "White"],
         :players => [
-          {:player_name => "stat"},
-          {:number => "stat"},
-          {:shoe => "stat"},
-          {:points => "stat"},
-          {:rebounds => "stat"},
-          {:assists => "stat"},
-          {:steals => "stat"},
-          {:blocks => "stat"},
-          {:slam_dunks => "stat"}
+          {:player_name => "stat",
+          :number => "stat",
+          :shoe => "stat",
+          :points => "stat",
+          :rebounds => "stat",
+          :assists => "stat",
+          :steals => "stat",
+          :blocks => "stat",
+          :slam_dunks => "stat"}
         ]
     },
    :away =>
     {:team_name => "Insert Team Name Here",
       :colors => ["color1", "color2"],
       :players => [
-        {:player_name => "stat"},
-        {:number => "stat"},
-        {:shoe => "stat"},
-        {:points => "stat"},
-        {:rebounds => "stat"},
-        {:assists => "stat"},
-        {:steals => "stat"},
-        {:blocks => "stat"},
-        {:slam_dunks => "stat"}
+        :player_name => "stat",
+        :number => "stat",
+        :shoe => "stat",
+        :points => "stat",
+        :rebounds => "stat",
+        :assists => "stat",
+        :steals => "stat",
+        :blocks => "stat",
+        :slam_dunks => "stat"}
      ]
  }
   }
