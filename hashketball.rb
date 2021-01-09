@@ -12,7 +12,7 @@ def game_hash
           :assists => "stat",
           :steals => "stat",
           :blocks => "stat",
-          :slam_dunks => "stat"}
+          :slam_dunks => "stat"},
         ]
     },
    :away =>
@@ -27,7 +27,7 @@ def game_hash
         :assists => "stat",
         :steals => "stat",
         :blocks => "stat",
-        :slam_dunks => "stat"}
+        :slam_dunks => "stat"},
      ]
  }
   }
