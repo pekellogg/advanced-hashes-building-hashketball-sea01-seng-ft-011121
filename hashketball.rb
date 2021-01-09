@@ -19,7 +19,7 @@ def game_hash
     {:team_name => "Insert Team Name Here",
       :colors => ["color1", "color2"],
       :players => [
-        :player_name => "stat",
+        {:player_name => "stat",
         :number => "stat",
         :shoe => "stat",
         :points => "stat",
